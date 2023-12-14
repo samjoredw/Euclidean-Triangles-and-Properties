@@ -19,7 +19,8 @@ The project consists of two main classes:
 2. **TriangleDemo.java**: Demonstrates the use of the Triangle class by creating triangles, assessing their properties, and testing perimeter equality.
 
 ## Usage
-To run my Triangles Project, follow these steps
+To run my Euclidean-Triangles-and-Properties Project, follow these steps...
+
 Open up a terminal window and run the following commands: 
 
     git clone https://github.com/samjoredw/Euclidean-Triangles-and-Properties.git
